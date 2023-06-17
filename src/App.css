@@ -25,13 +25,12 @@
 .card {
   margin: 2em;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   background-color: #201e1e;
   flex-basis: 70%;
+  width: 70%;
   border-radius: 5%;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-
-
   perspective: 800px;
   transition: transform 0.6s;
   

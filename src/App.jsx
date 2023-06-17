@@ -5,7 +5,7 @@ import { HorizontalBarChart } from './components/HorizontalBarChart';
 import useMobileDetect from './hooks/useMobileDetect';
 
 import { inject } from '@vercel/analytics';
- 
+
 inject();
 
 const LeagueDropdown = ({ leagues, onSelect }) => {
@@ -75,17 +75,20 @@ function App() {
             </tbody>
           </table>
         </div>}
-    </div >
+      </div >
 
       <LeagueDropdown
         leagues={Object.keys(usageData)}
         onSelect={onSelect}>
 
       </LeagueDropdown>
-      
+
       <div>
         <p>
           Data last updated on 16/06/2023
+        </p>
+        <p>
+          P.S you can click the card to see raw numbers
         </p>
       </div>
     </>
