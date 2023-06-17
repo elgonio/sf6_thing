@@ -1,0 +1,78 @@
+[
+    {
+        "CharacterName": "Random",
+        "Count": 10
+    },
+    {
+        "CharacterName": "Blanka",
+        "Count": 16
+    },
+    {
+        "CharacterName": "Lily",
+        "Count": 26
+    },
+    {
+        "CharacterName": "Dee Jay",
+        "Count": 36
+    },
+    {
+        "CharacterName": "Dhalsim",
+        "Count": 43
+    },
+    {
+        "CharacterName": "Edmond Honda",
+        "Count": 83
+    },
+    {
+        "CharacterName": "Guile",
+        "Count": 83
+    },
+    {
+        "CharacterName": "Chun-Li",
+        "Count": 88
+    },
+    {
+        "CharacterName": "JP",
+        "Count": 88
+    },
+    {
+        "CharacterName": "Juri",
+        "Count": 92
+    },
+    {
+        "CharacterName": "Kimberly",
+        "Count": 94
+    },
+    {
+        "CharacterName": "Jamie",
+        "Count": 102
+    },
+    {
+        "CharacterName": "Ryu",
+        "Count": 102
+    },
+    {
+        "CharacterName": "Luke",
+        "Count": 152
+    },
+    {
+        "CharacterName": "Ken",
+        "Count": 170
+    },
+    {
+        "CharacterName": "Manon",
+        "Count": 184
+    },
+    {
+        "CharacterName": "Marisa",
+        "Count": 204
+    },
+    {
+        "CharacterName": "Cammy",
+        "Count": 213
+    },
+    {
+        "CharacterName": "Zangief",
+        "Count": 214
+    }
+]
