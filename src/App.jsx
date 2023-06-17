@@ -4,7 +4,9 @@ import usageData from './data/index'
 import { HorizontalBarChart } from './components/HorizontalBarChart';
 import useMobileDetect from './hooks/useMobileDetect';
 
-
+import { inject } from '@vercel/analytics';
+ 
+inject();
 
 const LeagueDropdown = ({ leagues, onSelect }) => {
   const [selectedLeague, setSelectedLeague] = useState('');
@@ -80,6 +82,12 @@ function App() {
         onSelect={onSelect}>
 
       </LeagueDropdown>
+      
+      <div>
+        <p>
+          Data last updated on 16/06/2023
+        </p>
+      </div>
     </>
   )
 }
