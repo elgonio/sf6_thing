@@ -4,6 +4,7 @@ import chunLi from './Chun-Li.jpg';
 import deeJay from './Dee Jay.jpg';
 import dhalsim from './Dhalsim.jpg';
 import eHonda from './Edmond Honda.jpg';
+import guile from './Guile.jpg';
 import jamie from './Jamie.jpg';
 import jp from './JP.jpg';
 import juri from './Juri.jpg';
@@ -12,7 +13,7 @@ import kimberly from './Kimberly.jpg';
 import lily from './Lily.jpg';
 import luke from './Luke.jpg';
 import manon from './Manon.jpg';
-import marisa from './Juri.jpg';
+import marisa from './Marisa.jpg';
 import ryu from './Ryu.jpg';
 import zangief from './Zangief.jpg';
 
@@ -24,6 +25,7 @@ const images = {
     'Dee Jay': deeJay,
     'Dhalsim': dhalsim,
     'Edmond Honda': eHonda,
+    'Guile': guile,
     'Jamie': jamie,
     'JP': jp,
     'Juri': juri,
