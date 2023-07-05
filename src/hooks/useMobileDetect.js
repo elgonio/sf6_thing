@@ -5,7 +5,7 @@ const useMobileDetect = () => {
 
   useEffect(() => {
     const handleResize = () => {
-      setIsMobile(window.innerWidth < 768); // Adjust the threshold as needed
+      setIsMobile(window.innerWidth < 900); // Adjust the threshold as needed
     };
 
     handleResize(); // Check on initial render

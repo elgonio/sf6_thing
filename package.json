@@ -10,9 +10,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@nivo/core": "^0.83.0",
+    "@nivo/heatmap": "^0.83.0",
     "@vercel/analytics": "^1.0.1",
+    "@visx/group": "^3.0.0",
+    "@visx/heatmap": "^3.0.0",
+    "@visx/mock-data": "^3.0.0",
+    "@visx/responsive": "^3.0.0",
+    "@visx/scale": "^3.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-heatmap-grid": "^0.9.0",
     "react-select": "^5.7.3",
     "react-tabs": "^6.0.1",
     "victory": "^36.6.11"

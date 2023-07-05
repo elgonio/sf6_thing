@@ -1,17 +1,23 @@
 import { useState } from 'react'
-import './App.css'
-import usageData from './data/index'
 import images from './images/index'
+
+import usageData from './data/index'
 import countryData from './data/abridged_country_data.json'
-import { HorizontalBarChart } from './components/HorizontalBarChart';
+import matchupData from './data/matchup_data.json';
+import characterWinrates from './data/characterWinRates.json';
+
 import useMobileDetect from './hooks/useMobileDetect';
 
 import { inject } from '@vercel/analytics';
 
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
+import { HorizontalBarChart } from './components/HorizontalBarChart';
+import MatchupChart from './components/MatchupChart';
+import Select from 'react-select'
+
+import './App.css'
 import 'react-tabs/style/react-tabs.css';
 
-import Select from 'react-select'
 
 inject();
 
@@ -58,6 +64,19 @@ const getNHighestValues = (object, n) => {
   return sortable.slice(-n)
 }
 
+const location = window.location.href.split('/')
+const defaultTab = location[location.length - 1]
+
+
+const tabIndices = [
+  'characterData',
+  'countryData',
+  'matchupData',
+]
+
+const defaultTabIndex = tabIndices.indexOf(defaultTab)
+
+console.log(defaultTab, defaultTabIndex)
 
 function App() {
   const isMobile = useMobileDetect()
@@ -70,12 +89,15 @@ function App() {
     const favouriteCharacters = getNHighestValues(countryData[selectedCountry]?.character_frequency, 3)
     const listItems = favouriteCharacters.map(character => {
       return (
-        <div style={{display: 'flex', justifyContent: 'space-around', flexBasis:'50%', margin:'auto'}}>
-          <img src={images[character[0]]} style={{height: '3em'}}/>
-          <p style={{width: '50%', textAlign: 'left'}}>
-            <b>{character[0]}:</b>
-            {' ' + (character[1] * 100).toFixed(2) + '% '}
-          </p>
+        <div style={{ display: 'flex', flexBasis: '50%', margin: 'auto', placeContent: 'center' }}>
+          <div style={{ display: 'flex', flexDirection: 'row' }}>
+
+            <img src={images[character[0]]} style={{ height: '3em', paddingRight: '40px' }} />
+            <p style={{ textAlign: 'left', width: '200px' }}>
+              <b>{character[0]}:</b>
+              {' ' + (character[1] * 100).toFixed(2) + '% '}
+            </p>
+          </div>
         </div>
       )
     }
@@ -92,14 +114,18 @@ function App() {
 
   return (
     <>
-      <Tabs>
+      <h2>Some Random Street Fighter 6 Data I gathered :)</h2>
+      <Tabs
+        defaultIndex={defaultTabIndex >= 0 ? defaultTabIndex : 0}
+        onSelect={() => setCardFlipped(false)}>
         <TabList>
           <Tab>CharacterData</Tab>
           <Tab>CountryData</Tab>
+          <Tab>MatchupData</Tab>
         </TabList>
 
         <TabPanel>
-          <h3>Street Fighter 6 Character Playrates</h3>
+          <h2>Street Fighter 6 Character Playrates</h2>
 
           <div className={`card ${cardFlipped ? 'flipped' : ''}`} onClick={handleCardClick}>
             {!cardFlipped && <div className="front">
@@ -145,10 +171,7 @@ function App() {
           </div>
         </TabPanel>
         <TabPanel>
-          <Select options={countrySelectOptions}
-            className="react-select-container"
-            classNamePrefix="react-select"
-            onChange={(choice) => setSelectedCountry(choice.value)} />
+          <h2>Street Fighter 6 Stats by Country</h2>
           <div className={`card ${cardFlipped ? 'flipped' : ''}`} onClick={handleCardClick}>
             {!cardFlipped && <div className="front">
               <div>
@@ -163,6 +186,7 @@ function App() {
                 </p>
               </div>
             </div>}
+
             {cardFlipped && <div className="back">
               <h2>Extra stats for  {selectedCountry}</h2>
               <p>
@@ -173,6 +197,48 @@ function App() {
               </p>
             </div>}
           </div >
+
+          <div style={{ width: '70%', margin: 'auto' }}>
+            <Select options={countrySelectOptions}
+              className="react-select-container"
+              classNamePrefix="react-select"
+              onChange={(choice) => setSelectedCountry(choice.value)}
+            />
+
+            <div>
+              <p>
+                Data last updated on 26/06/2023
+              </p>
+              <p>
+                Data is based on a representative sample of 167 830 players
+              </p>
+            </div>
+          </div>
+        </TabPanel>
+        <TabPanel>
+          <h2>Matchup Chart</h2>
+          <div  className={`card ${cardFlipped ? 'flipped' : ''}`} onClick={handleCardClick} style={{ minHeight: '400px', width: isMobile && !cardFlipped? '1000px': undefined }}>
+            {!cardFlipped && <div className="front" style={{ height: '700px' }}>
+              <MatchupChart matchupData={matchupData} />
+
+            </div>}
+            {cardFlipped && <div className="back">
+              <h3>Overall Character Win Rates</h3>
+              {Object.keys(characterWinrates).map((character) => <p><b>{character}:</b> {characterWinrates[character]} </p>)}
+            </div>}
+          </div >
+
+          <div>
+            <p>
+              Data last updated on 05/07/2023
+            </p>
+            <p>
+              Data collected from 59361 matches between players at master rank
+            </p>
+            <p>
+              P.S you can click the card to see overall winrates
+            </p>
+          </div>
         </TabPanel>
       </Tabs>
 
