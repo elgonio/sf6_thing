@@ -216,15 +216,17 @@ function App() {
           </div>
         </TabPanel>
         <TabPanel>
-          <h2>Matchup Chart</h2>
-          <div  className={`card ${cardFlipped ? 'flipped' : ''}`} onClick={handleCardClick} style={{ minHeight: '400px', width: isMobile && !cardFlipped? '1000px': undefined }}>
+          <h2>Street Fighter 6 Matchup Chart</h2>
+          <div className={`card ${cardFlipped ? 'flipped' : ''}`} onClick={handleCardClick} style={{ minHeight: '400px', width: isMobile && !cardFlipped ? '1000px' : undefined }}>
             {!cardFlipped && <div className="front" style={{ height: '700px' }}>
               <MatchupChart matchupData={matchupData} />
-
             </div>}
             {cardFlipped && <div className="back">
               <h3>Overall Character Win Rates</h3>
               {Object.keys(characterWinrates).map((character) => <p><b>{character}:</b> {characterWinrates[character]} </p>)}
+              <i>
+                Tiers are determined by number of standard deviations from the mean
+              </i>
             </div>}
           </div >
 
