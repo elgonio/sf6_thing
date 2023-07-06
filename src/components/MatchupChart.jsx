@@ -124,6 +124,7 @@ const MatchupChart = ({ matchupData }) => {
             return {
                 x: character2,
                 y: matchup ? matchup.winrate.toFixed(2) : 0,
+                samples: matchup.sample_size
             };
         }),
     }));
@@ -168,9 +169,15 @@ const MatchupChart = ({ matchupData }) => {
             cellShape="rect"
             tooltip={(x) => {
                 return (
+                    <>
                     <strong>
                         {x.cell.serieId} vs {x.cell.data.x}: {`${(x.cell.data.y * 100).toFixed(2)}%`}
                     </strong >
+                    <p>
+                        Based on : {x.cell.data.samples} matches played
+                    </p >
+                    
+                    </>
                 )
 
             }

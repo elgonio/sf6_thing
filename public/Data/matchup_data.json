@@ -2,1621 +2,1945 @@
     {
         "character1": "Blanka",
         "character2": "Blanka",
-        "winrate": 0.5
+        "winrate": 0.5,
+        "sample_size": 96
     },
     {
         "character1": "Blanka",
         "character2": "Cammy",
-        "winrate": 0.5608108108108109
+        "winrate": 0.5608108108108109,
+        "sample_size": 296
     },
     {
         "character1": "Blanka",
         "character2": "Chun-Li",
-        "winrate": 0.485
+        "winrate": 0.485,
+        "sample_size": 200
     },
     {
         "character1": "Blanka",
         "character2": "Dee Jay",
-        "winrate": 0.43564356435643564
+        "winrate": 0.43564356435643564,
+        "sample_size": 303
     },
     {
         "character1": "Blanka",
         "character2": "Dhalsim",
-        "winrate": 0.5913978494623656
+        "winrate": 0.5913978494623656,
+        "sample_size": 93
     },
     {
         "character1": "Blanka",
         "character2": "Edmond Honda",
-        "winrate": 0.39662447257383965
+        "winrate": 0.39662447257383965,
+        "sample_size": 237
     },
     {
         "character1": "Blanka",
         "character2": "Guile",
-        "winrate": 0.3502824858757062
+        "winrate": 0.3502824858757062,
+        "sample_size": 177
     },
     {
         "character1": "Blanka",
         "character2": "Jamie",
-        "winrate": 0.5524861878453039
+        "winrate": 0.5524861878453039,
+        "sample_size": 181
     },
     {
         "character1": "Blanka",
         "character2": "JP",
-        "winrate": 0.5
+        "winrate": 0.5,
+        "sample_size": 406
     },
     {
         "character1": "Blanka",
         "character2": "Juri",
-        "winrate": 0.5458715596330275
+        "winrate": 0.5458715596330275,
+        "sample_size": 218
     },
     {
         "character1": "Blanka",
         "character2": "Ken",
-        "winrate": 0.44587155963302755
+        "winrate": 0.44587155963302755,
+        "sample_size": 545
     },
     {
         "character1": "Blanka",
         "character2": "Kimberly",
-        "winrate": 0.5454545454545454
+        "winrate": 0.5454545454545454,
+        "sample_size": 187
     },
     {
         "character1": "Blanka",
         "character2": "Lily",
-        "winrate": 0.6534653465346535
+        "winrate": 0.6534653465346535,
+        "sample_size": 101
     },
     {
         "character1": "Blanka",
         "character2": "Luke",
-        "winrate": 0.4279835390946502
+        "winrate": 0.4279835390946502,
+        "sample_size": 243
     },
     {
         "character1": "Blanka",
         "character2": "Manon",
-        "winrate": 0.45161290322580644
+        "winrate": 0.45161290322580644,
+        "sample_size": 217
     },
     {
         "character1": "Blanka",
         "character2": "Marisa",
-        "winrate": 0.5020746887966805
+        "winrate": 0.5020746887966805,
+        "sample_size": 241
     },
     {
         "character1": "Blanka",
         "character2": "Ryu",
-        "winrate": 0.5546218487394958
+        "winrate": 0.5546218487394958,
+        "sample_size": 238
     },
     {
         "character1": "Blanka",
         "character2": "Zangief",
-        "winrate": 0.5769230769230769
+        "winrate": 0.5769230769230769,
+        "sample_size": 182
     },
     {
         "character1": "Cammy",
         "character2": "Blanka",
-        "winrate": 0.4391891891891892
+        "winrate": 0.4391891891891892,
+        "sample_size": 296
     },
     {
         "character1": "Cammy",
         "character2": "Cammy",
-        "winrate": 0.5
+        "winrate": 0.5,
+        "sample_size": 618
     },
     {
         "character1": "Cammy",
         "character2": "Chun-Li",
-        "winrate": 0.5085470085470085
+        "winrate": 0.5085470085470085,
+        "sample_size": 468
     },
     {
         "character1": "Cammy",
         "character2": "Dee Jay",
-        "winrate": 0.4875717017208413
+        "winrate": 0.4875717017208413,
+        "sample_size": 523
     },
     {
         "character1": "Cammy",
         "character2": "Dhalsim",
-        "winrate": 0.536697247706422
+        "winrate": 0.536697247706422,
+        "sample_size": 218
     },
     {
         "character1": "Cammy",
         "character2": "Edmond Honda",
-        "winrate": 0.4484848484848485
+        "winrate": 0.4484848484848485,
+        "sample_size": 495
     },
     {
         "character1": "Cammy",
         "character2": "Guile",
-        "winrate": 0.533678756476684
+        "winrate": 0.533678756476684,
+        "sample_size": 386
     },
     {
         "character1": "Cammy",
         "character2": "Jamie",
-        "winrate": 0.4809384164222874
+        "winrate": 0.4809384164222874,
+        "sample_size": 341
     },
     {
         "character1": "Cammy",
         "character2": "JP",
-        "winrate": 0.510752688172043
+        "winrate": 0.510752688172043,
+        "sample_size": 930
     },
     {
         "character1": "Cammy",
         "character2": "Juri",
-        "winrate": 0.48785046728971965
+        "winrate": 0.48785046728971965,
+        "sample_size": 535
     },
     {
         "character1": "Cammy",
         "character2": "Ken",
-        "winrate": 0.5258620689655172
+        "winrate": 0.5258620689655172,
+        "sample_size": 1044
     },
     {
         "character1": "Cammy",
         "character2": "Kimberly",
-        "winrate": 0.4804928131416838
+        "winrate": 0.4804928131416838,
+        "sample_size": 487
     },
     {
         "character1": "Cammy",
         "character2": "Lily",
-        "winrate": 0.5448028673835126
+        "winrate": 0.5448028673835126,
+        "sample_size": 279
     },
     {
         "character1": "Cammy",
         "character2": "Luke",
-        "winrate": 0.47297297297297297
+        "winrate": 0.47297297297297297,
+        "sample_size": 592
     },
     {
         "character1": "Cammy",
         "character2": "Manon",
-        "winrate": 0.49427480916030536
+        "winrate": 0.49427480916030536,
+        "sample_size": 524
     },
     {
         "character1": "Cammy",
         "character2": "Marisa",
-        "winrate": 0.4919614147909968
+        "winrate": 0.4919614147909968,
+        "sample_size": 622
     },
     {
         "character1": "Cammy",
         "character2": "Ryu",
-        "winrate": 0.6059225512528473
+        "winrate": 0.6059225512528473,
+        "sample_size": 439
     },
     {
         "character1": "Cammy",
         "character2": "Zangief",
-        "winrate": 0.4563106796116505
+        "winrate": 0.4563106796116505,
+        "sample_size": 309
     },
     {
         "character1": "Chun-Li",
         "character2": "Blanka",
-        "winrate": 0.515
+        "winrate": 0.515,
+        "sample_size": 200
     },
     {
         "character1": "Chun-Li",
         "character2": "Cammy",
-        "winrate": 0.49145299145299143
+        "winrate": 0.49145299145299143,
+        "sample_size": 468
     },
     {
         "character1": "Chun-Li",
         "character2": "Chun-Li",
-        "winrate": 0.5
+        "winrate": 0.5,
+        "sample_size": 284
     },
     {
         "character1": "Chun-Li",
         "character2": "Dee Jay",
-        "winrate": 0.5259433962264151
+        "winrate": 0.5259433962264151,
+        "sample_size": 424
     },
     {
         "character1": "Chun-Li",
         "character2": "Dhalsim",
-        "winrate": 0.49122807017543857
+        "winrate": 0.49122807017543857,
+        "sample_size": 171
     },
     {
         "character1": "Chun-Li",
         "character2": "Edmond Honda",
-        "winrate": 0.45498783454987834
+        "winrate": 0.45498783454987834,
+        "sample_size": 411
     },
     {
         "character1": "Chun-Li",
         "character2": "Guile",
-        "winrate": 0.48717948717948717
+        "winrate": 0.48717948717948717,
+        "sample_size": 195
     },
     {
         "character1": "Chun-Li",
         "character2": "Jamie",
-        "winrate": 0.518348623853211
+        "winrate": 0.518348623853211,
+        "sample_size": 218
     },
     {
         "character1": "Chun-Li",
         "character2": "JP",
-        "winrate": 0.4864406779661017
+        "winrate": 0.4864406779661017,
+        "sample_size": 590
     },
     {
         "character1": "Chun-Li",
         "character2": "Juri",
-        "winrate": 0.5840978593272171
+        "winrate": 0.5840978593272171,
+        "sample_size": 327
     },
     {
         "character1": "Chun-Li",
         "character2": "Ken",
-        "winrate": 0.49420289855072463
+        "winrate": 0.49420289855072463,
+        "sample_size": 690
     },
     {
         "character1": "Chun-Li",
         "character2": "Kimberly",
-        "winrate": 0.49868073878627966
+        "winrate": 0.49868073878627966,
+        "sample_size": 379
     },
     {
         "character1": "Chun-Li",
         "character2": "Lily",
-        "winrate": 0.5294117647058824
+        "winrate": 0.5294117647058824,
+        "sample_size": 153
     },
     {
         "character1": "Chun-Li",
         "character2": "Luke",
-        "winrate": 0.5121359223300971
+        "winrate": 0.5121359223300971,
+        "sample_size": 412
     },
     {
         "character1": "Chun-Li",
         "character2": "Manon",
-        "winrate": 0.5012106537530266
+        "winrate": 0.5012106537530266,
+        "sample_size": 413
     },
     {
         "character1": "Chun-Li",
         "character2": "Marisa",
-        "winrate": 0.4748743718592965
+        "winrate": 0.4748743718592965,
+        "sample_size": 398
     },
     {
         "character1": "Chun-Li",
         "character2": "Ryu",
-        "winrate": 0.6086956521739131
+        "winrate": 0.6086956521739131,
+        "sample_size": 299
     },
     {
         "character1": "Chun-Li",
         "character2": "Zangief",
-        "winrate": 0.5668202764976958
+        "winrate": 0.5668202764976958,
+        "sample_size": 217
     },
     {
         "character1": "Dee Jay",
         "character2": "Blanka",
-        "winrate": 0.5643564356435643
+        "winrate": 0.5643564356435643,
+        "sample_size": 303
     },
     {
         "character1": "Dee Jay",
         "character2": "Cammy",
-        "winrate": 0.5124282982791587
+        "winrate": 0.5124282982791587,
+        "sample_size": 523
     },
     {
         "character1": "Dee Jay",
         "character2": "Chun-Li",
-        "winrate": 0.4740566037735849
+        "winrate": 0.4740566037735849,
+        "sample_size": 424
     },
     {
         "character1": "Dee Jay",
         "character2": "Dee Jay",
-        "winrate": 0.5
+        "winrate": 0.5,
+        "sample_size": 620
     },
     {
         "character1": "Dee Jay",
         "character2": "Dhalsim",
-        "winrate": 0.5720338983050848
+        "winrate": 0.5720338983050848,
+        "sample_size": 236
     },
     {
         "character1": "Dee Jay",
         "character2": "Edmond Honda",
-        "winrate": 0.5016181229773463
+        "winrate": 0.5016181229773463,
+        "sample_size": 618
     },
     {
         "character1": "Dee Jay",
         "character2": "Guile",
-        "winrate": 0.42134831460674155
+        "winrate": 0.42134831460674155,
+        "sample_size": 356
     },
     {
         "character1": "Dee Jay",
         "character2": "Jamie",
-        "winrate": 0.5210084033613446
+        "winrate": 0.5210084033613446,
+        "sample_size": 357
     },
     {
         "character1": "Dee Jay",
         "character2": "JP",
-        "winrate": 0.4642438452520516
+        "winrate": 0.4642438452520516,
+        "sample_size": 853
     },
     {
         "character1": "Dee Jay",
         "character2": "Juri",
-        "winrate": 0.5049900199600799
+        "winrate": 0.5049900199600799,
+        "sample_size": 501
     },
     {
         "character1": "Dee Jay",
         "character2": "Ken",
-        "winrate": 0.4947916666666667
+        "winrate": 0.4947916666666667,
+        "sample_size": 960
     },
     {
         "character1": "Dee Jay",
         "character2": "Kimberly",
-        "winrate": 0.462882096069869
+        "winrate": 0.462882096069869,
+        "sample_size": 458
     },
     {
         "character1": "Dee Jay",
         "character2": "Lily",
-        "winrate": 0.46206896551724136
+        "winrate": 0.46206896551724136,
+        "sample_size": 290
     },
     {
         "character1": "Dee Jay",
         "character2": "Luke",
-        "winrate": 0.45348837209302323
+        "winrate": 0.45348837209302323,
+        "sample_size": 516
     },
     {
         "character1": "Dee Jay",
         "character2": "Manon",
-        "winrate": 0.49072164948453606
+        "winrate": 0.49072164948453606,
+        "sample_size": 485
     },
     {
         "character1": "Dee Jay",
         "character2": "Marisa",
-        "winrate": 0.4802065404475043
+        "winrate": 0.4802065404475043,
+        "sample_size": 581
     },
     {
         "character1": "Dee Jay",
         "character2": "Ryu",
-        "winrate": 0.5525525525525525
+        "winrate": 0.5525525525525525,
+        "sample_size": 333
     },
     {
         "character1": "Dee Jay",
         "character2": "Zangief",
-        "winrate": 0.4645669291338583
+        "winrate": 0.4645669291338583,
+        "sample_size": 254
     },
     {
         "character1": "Dhalsim",
         "character2": "Blanka",
-        "winrate": 0.40860215053763443
+        "winrate": 0.40860215053763443,
+        "sample_size": 93
     },
     {
         "character1": "Dhalsim",
         "character2": "Cammy",
-        "winrate": 0.463302752293578
+        "winrate": 0.463302752293578,
+        "sample_size": 218
     },
     {
         "character1": "Dhalsim",
         "character2": "Chun-Li",
-        "winrate": 0.5087719298245614
+        "winrate": 0.5087719298245614,
+        "sample_size": 171
     },
     {
         "character1": "Dhalsim",
         "character2": "Dee Jay",
-        "winrate": 0.4279661016949153
+        "winrate": 0.4279661016949153,
+        "sample_size": 236
     },
     {
         "character1": "Dhalsim",
         "character2": "Dhalsim",
-        "winrate": 0.5
+        "winrate": 0.5,
+        "sample_size": 80
     },
     {
         "character1": "Dhalsim",
         "character2": "Edmond Honda",
-        "winrate": 0.3373493975903614
+        "winrate": 0.3373493975903614,
+        "sample_size": 166
     },
     {
         "character1": "Dhalsim",
         "character2": "Guile",
-        "winrate": 0.4444444444444444
+        "winrate": 0.4444444444444444,
+        "sample_size": 162
     },
     {
         "character1": "Dhalsim",
         "character2": "Jamie",
-        "winrate": 0.6564885496183206
+        "winrate": 0.6564885496183206,
+        "sample_size": 131
     },
     {
         "character1": "Dhalsim",
         "character2": "JP",
-        "winrate": 0.5710594315245479
+        "winrate": 0.5710594315245479,
+        "sample_size": 387
     },
     {
         "character1": "Dhalsim",
         "character2": "Juri",
-        "winrate": 0.48132780082987553
+        "winrate": 0.48132780082987553,
+        "sample_size": 241
     },
     {
         "character1": "Dhalsim",
         "character2": "Ken",
-        "winrate": 0.4901098901098901
+        "winrate": 0.4901098901098901,
+        "sample_size": 455
     },
     {
         "character1": "Dhalsim",
         "character2": "Kimberly",
-        "winrate": 0.4554794520547945
+        "winrate": 0.4554794520547945,
+        "sample_size": 292
     },
     {
         "character1": "Dhalsim",
         "character2": "Lily",
-        "winrate": 0.6
+        "winrate": 0.6,
+        "sample_size": 115
     },
     {
         "character1": "Dhalsim",
         "character2": "Luke",
-        "winrate": 0.5915492957746479
+        "winrate": 0.5915492957746479,
+        "sample_size": 213
     },
     {
         "character1": "Dhalsim",
         "character2": "Manon",
-        "winrate": 0.6063829787234043
+        "winrate": 0.6063829787234043,
+        "sample_size": 188
     },
     {
         "character1": "Dhalsim",
         "character2": "Marisa",
-        "winrate": 0.54
+        "winrate": 0.54,
+        "sample_size": 300
     },
     {
         "character1": "Dhalsim",
         "character2": "Ryu",
-        "winrate": 0.5443786982248521
+        "winrate": 0.5443786982248521,
+        "sample_size": 169
     },
     {
         "character1": "Dhalsim",
         "character2": "Zangief",
-        "winrate": 0.7333333333333333
+        "winrate": 0.7333333333333333,
+        "sample_size": 135
     },
     {
         "character1": "Edmond Honda",
         "character2": "Blanka",
-        "winrate": 0.6033755274261603
+        "winrate": 0.6033755274261603,
+        "sample_size": 237
     },
     {
         "character1": "Edmond Honda",
         "character2": "Cammy",
-        "winrate": 0.5515151515151515
+        "winrate": 0.5515151515151515,
+        "sample_size": 495
     },
     {
         "character1": "Edmond Honda",
         "character2": "Chun-Li",
-        "winrate": 0.5450121654501217
+        "winrate": 0.5450121654501217,
+        "sample_size": 411
     },
     {
         "character1": "Edmond Honda",
         "character2": "Dee Jay",
-        "winrate": 0.49838187702265374
+        "winrate": 0.49838187702265374,
+        "sample_size": 618
     },
     {
         "character1": "Edmond Honda",
         "character2": "Dhalsim",
-        "winrate": 0.6626506024096386
+        "winrate": 0.6626506024096386,
+        "sample_size": 166
     },
     {
         "character1": "Edmond Honda",
         "character2": "Edmond Honda",
-        "winrate": 0.5
+        "winrate": 0.5,
+        "sample_size": 382
     },
     {
         "character1": "Edmond Honda",
         "character2": "Guile",
-        "winrate": 0.5264623955431755
+        "winrate": 0.5264623955431755,
+        "sample_size": 359
     },
     {
         "character1": "Edmond Honda",
         "character2": "Jamie",
-        "winrate": 0.525
+        "winrate": 0.525,
+        "sample_size": 240
     },
     {
         "character1": "Edmond Honda",
         "character2": "JP",
-        "winrate": 0.4297407912687585
+        "winrate": 0.4297407912687585,
+        "sample_size": 733
     },
     {
         "character1": "Edmond Honda",
         "character2": "Juri",
-        "winrate": 0.5128205128205128
+        "winrate": 0.5128205128205128,
+        "sample_size": 429
     },
     {
         "character1": "Edmond Honda",
         "character2": "Ken",
-        "winrate": 0.44673539518900346
+        "winrate": 0.44673539518900346,
+        "sample_size": 873
     },
     {
         "character1": "Edmond Honda",
         "character2": "Kimberly",
-        "winrate": 0.5640394088669951
+        "winrate": 0.5640394088669951,
+        "sample_size": 406
     },
     {
         "character1": "Edmond Honda",
         "character2": "Lily",
-        "winrate": 0.5
+        "winrate": 0.5,
+        "sample_size": 240
     },
     {
         "character1": "Edmond Honda",
         "character2": "Luke",
-        "winrate": 0.514018691588785
+        "winrate": 0.514018691588785,
+        "sample_size": 428
     },
     {
         "character1": "Edmond Honda",
         "character2": "Manon",
-        "winrate": 0.49514563106796117
+        "winrate": 0.49514563106796117,
+        "sample_size": 412
     },
     {
         "character1": "Edmond Honda",
         "character2": "Marisa",
-        "winrate": 0.5185995623632386
+        "winrate": 0.5185995623632386,
+        "sample_size": 457
     },
     {
         "character1": "Edmond Honda",
         "character2": "Ryu",
-        "winrate": 0.5370370370370371
+        "winrate": 0.5370370370370371,
+        "sample_size": 378
     },
     {
         "character1": "Edmond Honda",
         "character2": "Zangief",
-        "winrate": 0.5017543859649123
+        "winrate": 0.5017543859649123,
+        "sample_size": 285
     },
     {
         "character1": "Guile",
         "character2": "Blanka",
-        "winrate": 0.6497175141242938
+        "winrate": 0.6497175141242938,
+        "sample_size": 177
     },
     {
         "character1": "Guile",
         "character2": "Cammy",
-        "winrate": 0.46632124352331605
+        "winrate": 0.46632124352331605,
+        "sample_size": 386
     },
     {
         "character1": "Guile",
         "character2": "Chun-Li",
-        "winrate": 0.5128205128205128
+        "winrate": 0.5128205128205128,
+        "sample_size": 195
     },
     {
         "character1": "Guile",
         "character2": "Dee Jay",
-        "winrate": 0.5786516853932584
+        "winrate": 0.5786516853932584,
+        "sample_size": 356
     },
     {
         "character1": "Guile",
         "character2": "Dhalsim",
-        "winrate": 0.5555555555555556
+        "winrate": 0.5555555555555556,
+        "sample_size": 162
     },
     {
         "character1": "Guile",
         "character2": "Edmond Honda",
-        "winrate": 0.4735376044568245
+        "winrate": 0.4735376044568245,
+        "sample_size": 359
     },
     {
         "character1": "Guile",
         "character2": "Guile",
-        "winrate": 0.5
+        "winrate": 0.5,
+        "sample_size": 138
     },
     {
         "character1": "Guile",
         "character2": "Jamie",
-        "winrate": 0.5447761194029851
+        "winrate": 0.5447761194029851,
+        "sample_size": 134
     },
     {
         "character1": "Guile",
         "character2": "JP",
-        "winrate": 0.3786848072562358
+        "winrate": 0.3786848072562358,
+        "sample_size": 441
     },
     {
         "character1": "Guile",
         "character2": "Juri",
-        "winrate": 0.543026706231454
+        "winrate": 0.543026706231454,
+        "sample_size": 337
     },
     {
         "character1": "Guile",
         "character2": "Ken",
-        "winrate": 0.5385756676557863
+        "winrate": 0.5385756676557863,
+        "sample_size": 674
     },
     {
         "character1": "Guile",
         "character2": "Kimberly",
-        "winrate": 0.4931506849315068
+        "winrate": 0.4931506849315068,
+        "sample_size": 292
     },
     {
         "character1": "Guile",
         "character2": "Lily",
-        "winrate": 0.48905109489051096
+        "winrate": 0.48905109489051096,
+        "sample_size": 137
     },
     {
         "character1": "Guile",
         "character2": "Luke",
-        "winrate": 0.5099337748344371
+        "winrate": 0.5099337748344371,
+        "sample_size": 302
     },
     {
         "character1": "Guile",
         "character2": "Manon",
-        "winrate": 0.49407114624505927
+        "winrate": 0.49407114624505927,
+        "sample_size": 253
     },
     {
         "character1": "Guile",
         "character2": "Marisa",
-        "winrate": 0.47570332480818417
+        "winrate": 0.47570332480818417,
+        "sample_size": 391
     },
     {
         "character1": "Guile",
         "character2": "Ryu",
-        "winrate": 0.5314009661835749
+        "winrate": 0.5314009661835749,
+        "sample_size": 207
     },
     {
         "character1": "Guile",
         "character2": "Zangief",
-        "winrate": 0.460093896713615
+        "winrate": 0.460093896713615,
+        "sample_size": 213
     },
     {
         "character1": "Jamie",
         "character2": "Blanka",
-        "winrate": 0.44751381215469616
+        "winrate": 0.44751381215469616,
+        "sample_size": 181
     },
     {
         "character1": "Jamie",
         "character2": "Cammy",
-        "winrate": 0.5190615835777126
+        "winrate": 0.5190615835777126,
+        "sample_size": 341
     },
     {
         "character1": "Jamie",
         "character2": "Chun-Li",
-        "winrate": 0.481651376146789
+        "winrate": 0.481651376146789,
+        "sample_size": 218
     },
     {
         "character1": "Jamie",
         "character2": "Dee Jay",
-        "winrate": 0.4789915966386555
+        "winrate": 0.4789915966386555,
+        "sample_size": 357
     },
     {
         "character1": "Jamie",
         "character2": "Dhalsim",
-        "winrate": 0.3435114503816794
+        "winrate": 0.3435114503816794,
+        "sample_size": 131
     },
     {
         "character1": "Jamie",
         "character2": "Edmond Honda",
-        "winrate": 0.475
+        "winrate": 0.475,
+        "sample_size": 240
     },
     {
         "character1": "Jamie",
         "character2": "Guile",
-        "winrate": 0.4552238805970149
+        "winrate": 0.4552238805970149,
+        "sample_size": 134
     },
     {
         "character1": "Jamie",
         "character2": "Jamie",
-        "winrate": 0.5
+        "winrate": 0.5,
+        "sample_size": 178
     },
     {
         "character1": "Jamie",
         "character2": "JP",
-        "winrate": 0.466789667896679
+        "winrate": 0.466789667896679,
+        "sample_size": 542
     },
     {
         "character1": "Jamie",
         "character2": "Juri",
-        "winrate": 0.4462025316455696
+        "winrate": 0.4462025316455696,
+        "sample_size": 316
     },
     {
         "character1": "Jamie",
         "character2": "Ken",
-        "winrate": 0.460431654676259
+        "winrate": 0.460431654676259,
+        "sample_size": 556
     },
     {
         "character1": "Jamie",
         "character2": "Kimberly",
-        "winrate": 0.49683544303797467
+        "winrate": 0.49683544303797467,
+        "sample_size": 316
     },
     {
         "character1": "Jamie",
         "character2": "Lily",
-        "winrate": 0.488
+        "winrate": 0.488,
+        "sample_size": 125
     },
     {
         "character1": "Jamie",
         "character2": "Luke",
-        "winrate": 0.4447592067988669
+        "winrate": 0.4447592067988669,
+        "sample_size": 353
     },
     {
         "character1": "Jamie",
         "character2": "Manon",
-        "winrate": 0.4698275862068966
+        "winrate": 0.4698275862068966,
+        "sample_size": 232
     },
     {
         "character1": "Jamie",
         "character2": "Marisa",
-        "winrate": 0.5099337748344371
+        "winrate": 0.5099337748344371,
+        "sample_size": 302
     },
     {
         "character1": "Jamie",
         "character2": "Ryu",
-        "winrate": 0.5700483091787439
+        "winrate": 0.5700483091787439,
+        "sample_size": 207
     },
     {
         "character1": "Jamie",
         "character2": "Zangief",
-        "winrate": 0.46551724137931033
+        "winrate": 0.46551724137931033,
+        "sample_size": 174
     },
     {
         "character1": "JP",
         "character2": "Blanka",
-        "winrate": 0.5
+        "winrate": 0.5,
+        "sample_size": 406
     },
     {
         "character1": "JP",
         "character2": "Cammy",
-        "winrate": 0.489247311827957
+        "winrate": 0.489247311827957,
+        "sample_size": 930
     },
     {
         "character1": "JP",
         "character2": "Chun-Li",
-        "winrate": 0.5135593220338983
+        "winrate": 0.5135593220338983,
+        "sample_size": 590
     },
     {
         "character1": "JP",
         "character2": "Dee Jay",
-        "winrate": 0.5357561547479485
+        "winrate": 0.5357561547479485,
+        "sample_size": 853
     },
     {
         "character1": "JP",
         "character2": "Dhalsim",
-        "winrate": 0.4289405684754522
+        "winrate": 0.4289405684754522,
+        "sample_size": 387
     },
     {
         "character1": "JP",
         "character2": "Edmond Honda",
-        "winrate": 0.5702592087312415
+        "winrate": 0.5702592087312415,
+        "sample_size": 733
     },
     {
         "character1": "JP",
         "character2": "Guile",
-        "winrate": 0.6213151927437641
+        "winrate": 0.6213151927437641,
+        "sample_size": 441
     },
     {
         "character1": "JP",
         "character2": "Jamie",
-        "winrate": 0.533210332103321
+        "winrate": 0.533210332103321,
+        "sample_size": 542
     },
     {
         "character1": "JP",
         "character2": "JP",
-        "winrate": 0.5
+        "winrate": 0.5,
+        "sample_size": 1230
     },
     {
         "character1": "JP",
         "character2": "Juri",
-        "winrate": 0.44113667117726657
+        "winrate": 0.44113667117726657,
+        "sample_size": 739
     },
     {
         "character1": "JP",
         "character2": "Ken",
-        "winrate": 0.4962862930452397
+        "winrate": 0.4962862930452397,
+        "sample_size": 1481
     },
     {
         "character1": "JP",
         "character2": "Kimberly",
-        "winrate": 0.45248868778280543
+        "winrate": 0.45248868778280543,
+        "sample_size": 663
     },
     {
         "character1": "JP",
         "character2": "Lily",
-        "winrate": 0.5654205607476636
+        "winrate": 0.5654205607476636,
+        "sample_size": 214
     },
     {
         "character1": "JP",
         "character2": "Luke",
-        "winrate": 0.5134443021766966
+        "winrate": 0.5134443021766966,
+        "sample_size": 781
     },
     {
         "character1": "JP",
         "character2": "Manon",
-        "winrate": 0.5485362095531587
+        "winrate": 0.5485362095531587,
+        "sample_size": 649
     },
     {
         "character1": "JP",
         "character2": "Marisa",
-        "winrate": 0.5520728008088979
+        "winrate": 0.5520728008088979,
+        "sample_size": 989
     },
     {
         "character1": "JP",
         "character2": "Ryu",
-        "winrate": 0.6
+        "winrate": 0.6,
+        "sample_size": 580
     },
     {
         "character1": "JP",
         "character2": "Zangief",
-        "winrate": 0.6564551422319475
+        "winrate": 0.6564551422319475,
+        "sample_size": 457
     },
     {
         "character1": "Juri",
         "character2": "Blanka",
-        "winrate": 0.4541284403669725
+        "winrate": 0.4541284403669725,
+        "sample_size": 218
     },
     {
         "character1": "Juri",
         "character2": "Cammy",
-        "winrate": 0.5121495327102804
+        "winrate": 0.5121495327102804,
+        "sample_size": 535
     },
     {
         "character1": "Juri",
         "character2": "Chun-Li",
-        "winrate": 0.41590214067278286
+        "winrate": 0.41590214067278286,
+        "sample_size": 327
     },
     {
         "character1": "Juri",
         "character2": "Dee Jay",
-        "winrate": 0.49500998003992014
+        "winrate": 0.49500998003992014,
+        "sample_size": 501
     },
     {
         "character1": "Juri",
         "character2": "Dhalsim",
-        "winrate": 0.5186721991701245
+        "winrate": 0.5186721991701245,
+        "sample_size": 241
     },
     {
         "character1": "Juri",
         "character2": "Edmond Honda",
-        "winrate": 0.48717948717948717
+        "winrate": 0.48717948717948717,
+        "sample_size": 429
     },
     {
         "character1": "Juri",
         "character2": "Guile",
-        "winrate": 0.456973293768546
+        "winrate": 0.456973293768546,
+        "sample_size": 337
     },
     {
         "character1": "Juri",
         "character2": "Jamie",
-        "winrate": 0.5537974683544303
+        "winrate": 0.5537974683544303,
+        "sample_size": 316
     },
     {
         "character1": "Juri",
         "character2": "JP",
-        "winrate": 0.5588633288227334
+        "winrate": 0.5588633288227334,
+        "sample_size": 739
     },
     {
         "character1": "Juri",
         "character2": "Juri",
-        "winrate": 0.5
+        "winrate": 0.5,
+        "sample_size": 498
     },
     {
         "character1": "Juri",
         "character2": "Ken",
-        "winrate": 0.4994511525795829
+        "winrate": 0.4994511525795829,
+        "sample_size": 911
     },
     {
         "character1": "Juri",
         "character2": "Kimberly",
-        "winrate": 0.5167785234899329
+        "winrate": 0.5167785234899329,
+        "sample_size": 447
     },
     {
         "character1": "Juri",
         "character2": "Lily",
-        "winrate": 0.5333333333333333
+        "winrate": 0.5333333333333333,
+        "sample_size": 225
     },
     {
         "character1": "Juri",
         "character2": "Luke",
-        "winrate": 0.4638949671772429
+        "winrate": 0.4638949671772429,
+        "sample_size": 457
     },
     {
         "character1": "Juri",
         "character2": "Manon",
-        "winrate": 0.5021551724137931
+        "winrate": 0.5021551724137931,
+        "sample_size": 464
     },
     {
         "character1": "Juri",
         "character2": "Marisa",
-        "winrate": 0.5305084745762711
+        "winrate": 0.5305084745762711,
+        "sample_size": 590
     },
     {
         "character1": "Juri",
         "character2": "Ryu",
-        "winrate": 0.512396694214876
+        "winrate": 0.512396694214876,
+        "sample_size": 363
     },
     {
         "character1": "Juri",
         "character2": "Zangief",
-        "winrate": 0.4957983193277311
+        "winrate": 0.4957983193277311,
+        "sample_size": 238
     },
     {
         "character1": "Ken",
         "character2": "Blanka",
-        "winrate": 0.5541284403669725
+        "winrate": 0.5541284403669725,
+        "sample_size": 545
     },
     {
         "character1": "Ken",
         "character2": "Cammy",
-        "winrate": 0.47413793103448276
+        "winrate": 0.47413793103448276,
+        "sample_size": 1044
     },
     {
         "character1": "Ken",
         "character2": "Chun-Li",
-        "winrate": 0.5057971014492754
+        "winrate": 0.5057971014492754,
+        "sample_size": 690
     },
     {
         "character1": "Ken",
         "character2": "Dee Jay",
-        "winrate": 0.5052083333333334
+        "winrate": 0.5052083333333334,
+        "sample_size": 960
     },
     {
         "character1": "Ken",
         "character2": "Dhalsim",
-        "winrate": 0.5098901098901099
+        "winrate": 0.5098901098901099,
+        "sample_size": 455
     },
     {
         "character1": "Ken",
         "character2": "Edmond Honda",
-        "winrate": 0.5532646048109966
+        "winrate": 0.5532646048109966,
+        "sample_size": 873
     },
     {
         "character1": "Ken",
         "character2": "Guile",
-        "winrate": 0.46142433234421365
+        "winrate": 0.46142433234421365,
+        "sample_size": 674
     },
     {
         "character1": "Ken",
         "character2": "Jamie",
-        "winrate": 0.539568345323741
+        "winrate": 0.539568345323741,
+        "sample_size": 556
     },
     {
         "character1": "Ken",
         "character2": "JP",
-        "winrate": 0.5037137069547603
+        "winrate": 0.5037137069547603,
+        "sample_size": 1481
     },
     {
         "character1": "Ken",
         "character2": "Juri",
-        "winrate": 0.5005488474204172
+        "winrate": 0.5005488474204172,
+        "sample_size": 911
     },
     {
         "character1": "Ken",
         "character2": "Ken",
-        "winrate": 0.5
+        "winrate": 0.5,
+        "sample_size": 1656
     },
     {
         "character1": "Ken",
         "character2": "Kimberly",
-        "winrate": 0.49044585987261147
+        "winrate": 0.49044585987261147,
+        "sample_size": 785
     },
     {
         "character1": "Ken",
         "character2": "Lily",
-        "winrate": 0.533678756476684
+        "winrate": 0.533678756476684,
+        "sample_size": 386
     },
     {
         "character1": "Ken",
         "character2": "Luke",
-        "winrate": 0.47710330138445156
+        "winrate": 0.47710330138445156,
+        "sample_size": 939
     },
     {
         "character1": "Ken",
         "character2": "Manon",
-        "winrate": 0.5198463508322664
+        "winrate": 0.5198463508322664,
+        "sample_size": 781
     },
     {
         "character1": "Ken",
         "character2": "Marisa",
-        "winrate": 0.5287865367581931
+        "winrate": 0.5287865367581931,
+        "sample_size": 1129
     },
     {
         "character1": "Ken",
         "character2": "Ryu",
-        "winrate": 0.4985835694050991
+        "winrate": 0.4985835694050991,
+        "sample_size": 706
     },
     {
         "character1": "Ken",
         "character2": "Zangief",
-        "winrate": 0.5580952380952381
+        "winrate": 0.5580952380952381,
+        "sample_size": 525
     },
     {
         "character1": "Kimberly",
         "character2": "Blanka",
-        "winrate": 0.45454545454545453
+        "winrate": 0.45454545454545453,
+        "sample_size": 187
     },
     {
         "character1": "Kimberly",
         "character2": "Cammy",
-        "winrate": 0.5195071868583162
+        "winrate": 0.5195071868583162,
+        "sample_size": 487
     },
     {
         "character1": "Kimberly",
         "character2": "Chun-Li",
-        "winrate": 0.5013192612137203
+        "winrate": 0.5013192612137203,
+        "sample_size": 379
     },
     {
         "character1": "Kimberly",
         "character2": "Dee Jay",
-        "winrate": 0.537117903930131
+        "winrate": 0.537117903930131,
+        "sample_size": 458
     },
     {
         "character1": "Kimberly",
         "character2": "Dhalsim",
-        "winrate": 0.5445205479452054
+        "winrate": 0.5445205479452054,
+        "sample_size": 292
     },
     {
         "character1": "Kimberly",
         "character2": "Edmond Honda",
-        "winrate": 0.43596059113300495
+        "winrate": 0.43596059113300495,
+        "sample_size": 406
     },
     {
         "character1": "Kimberly",
         "character2": "Guile",
-        "winrate": 0.5068493150684932
+        "winrate": 0.5068493150684932,
+        "sample_size": 292
     },
     {
         "character1": "Kimberly",
         "character2": "Jamie",
-        "winrate": 0.5031645569620253
+        "winrate": 0.5031645569620253,
+        "sample_size": 316
     },
     {
         "character1": "Kimberly",
         "character2": "JP",
-        "winrate": 0.5475113122171946
+        "winrate": 0.5475113122171946,
+        "sample_size": 663
     },
     {
         "character1": "Kimberly",
         "character2": "Juri",
-        "winrate": 0.48322147651006714
+        "winrate": 0.48322147651006714,
+        "sample_size": 447
     },
     {
         "character1": "Kimberly",
         "character2": "Ken",
-        "winrate": 0.5095541401273885
+        "winrate": 0.5095541401273885,
+        "sample_size": 785
     },
     {
         "character1": "Kimberly",
         "character2": "Kimberly",
-        "winrate": 0.5
+        "winrate": 0.5,
+        "sample_size": 312
     },
     {
         "character1": "Kimberly",
         "character2": "Lily",
-        "winrate": 0.5185185185185185
+        "winrate": 0.5185185185185185,
+        "sample_size": 243
     },
     {
         "character1": "Kimberly",
         "character2": "Luke",
-        "winrate": 0.43896713615023475
+        "winrate": 0.43896713615023475,
+        "sample_size": 426
     },
     {
         "character1": "Kimberly",
         "character2": "Manon",
-        "winrate": 0.47904191616766467
+        "winrate": 0.47904191616766467,
+        "sample_size": 334
     },
     {
         "character1": "Kimberly",
         "character2": "Marisa",
-        "winrate": 0.5337423312883436
+        "winrate": 0.5337423312883436,
+        "sample_size": 489
     },
     {
         "character1": "Kimberly",
         "character2": "Ryu",
-        "winrate": 0.476056338028169
+        "winrate": 0.476056338028169,
+        "sample_size": 355
     },
     {
         "character1": "Kimberly",
         "character2": "Zangief",
-        "winrate": 0.5399239543726235
+        "winrate": 0.5399239543726235,
+        "sample_size": 263
     },
     {
         "character1": "Lily",
         "character2": "Blanka",
-        "winrate": 0.3465346534653465
+        "winrate": 0.3465346534653465,
+        "sample_size": 101
     },
     {
         "character1": "Lily",
         "character2": "Cammy",
-        "winrate": 0.4551971326164875
+        "winrate": 0.4551971326164875,
+        "sample_size": 279
     },
     {
         "character1": "Lily",
         "character2": "Chun-Li",
-        "winrate": 0.47058823529411764
+        "winrate": 0.47058823529411764,
+        "sample_size": 153
     },
     {
         "character1": "Lily",
         "character2": "Dee Jay",
-        "winrate": 0.5379310344827586
+        "winrate": 0.5379310344827586,
+        "sample_size": 290
     },
     {
         "character1": "Lily",
         "character2": "Dhalsim",
-        "winrate": 0.4
+        "winrate": 0.4,
+        "sample_size": 115
     },
     {
         "character1": "Lily",
         "character2": "Edmond Honda",
-        "winrate": 0.5
+        "winrate": 0.5,
+        "sample_size": 240
     },
     {
         "character1": "Lily",
         "character2": "Guile",
-        "winrate": 0.5109489051094891
+        "winrate": 0.5109489051094891,
+        "sample_size": 137
     },
     {
         "character1": "Lily",
         "character2": "Jamie",
-        "winrate": 0.512
+        "winrate": 0.512,
+        "sample_size": 125
     },
     {
         "character1": "Lily",
         "character2": "JP",
-        "winrate": 0.43457943925233644
+        "winrate": 0.43457943925233644,
+        "sample_size": 214
     },
     {
         "character1": "Lily",
         "character2": "Juri",
-        "winrate": 0.4666666666666667
+        "winrate": 0.4666666666666667,
+        "sample_size": 225
     },
     {
         "character1": "Lily",
         "character2": "Ken",
-        "winrate": 0.46632124352331605
+        "winrate": 0.46632124352331605,
+        "sample_size": 386
     },
     {
         "character1": "Lily",
         "character2": "Kimberly",
-        "winrate": 0.48148148148148145
+        "winrate": 0.48148148148148145,
+        "sample_size": 243
     },
     {
         "character1": "Lily",
         "character2": "Lily",
-        "winrate": 0.5
+        "winrate": 0.5,
+        "sample_size": 72
     },
     {
         "character1": "Lily",
         "character2": "Luke",
-        "winrate": 0.45933014354066987
+        "winrate": 0.45933014354066987,
+        "sample_size": 209
     },
     {
         "character1": "Lily",
         "character2": "Manon",
-        "winrate": 0.4125560538116592
+        "winrate": 0.4125560538116592,
+        "sample_size": 223
     },
     {
         "character1": "Lily",
         "character2": "Marisa",
-        "winrate": 0.547945205479452
+        "winrate": 0.547945205479452,
+        "sample_size": 219
     },
     {
         "character1": "Lily",
         "character2": "Ryu",
-        "winrate": 0.4768211920529801
+        "winrate": 0.4768211920529801,
+        "sample_size": 151
     },
     {
         "character1": "Lily",
         "character2": "Zangief",
-        "winrate": 0.6491228070175439
+        "winrate": 0.6491228070175439,
+        "sample_size": 114
     },
     {
         "character1": "Luke",
         "character2": "Blanka",
-        "winrate": 0.5720164609053497
+        "winrate": 0.5720164609053497,
+        "sample_size": 243
     },
     {
         "character1": "Luke",
         "character2": "Cammy",
-        "winrate": 0.527027027027027
+        "winrate": 0.527027027027027,
+        "sample_size": 592
     },
     {
         "character1": "Luke",
         "character2": "Chun-Li",
-        "winrate": 0.4878640776699029
+        "winrate": 0.4878640776699029,
+        "sample_size": 412
     },
     {
         "character1": "Luke",
         "character2": "Dee Jay",
-        "winrate": 0.5465116279069767
+        "winrate": 0.5465116279069767,
+        "sample_size": 516
     },
     {
         "character1": "Luke",
         "character2": "Dhalsim",
-        "winrate": 0.4084507042253521
+        "winrate": 0.4084507042253521,
+        "sample_size": 213
     },
     {
         "character1": "Luke",
         "character2": "Edmond Honda",
-        "winrate": 0.48598130841121495
+        "winrate": 0.48598130841121495,
+        "sample_size": 428
     },
     {
         "character1": "Luke",
         "character2": "Guile",
-        "winrate": 0.4900662251655629
+        "winrate": 0.4900662251655629,
+        "sample_size": 302
     },
     {
         "character1": "Luke",
         "character2": "Jamie",
-        "winrate": 0.5552407932011332
+        "winrate": 0.5552407932011332,
+        "sample_size": 353
     },
     {
         "character1": "Luke",
         "character2": "JP",
-        "winrate": 0.48655569782330343
+        "winrate": 0.48655569782330343,
+        "sample_size": 781
     },
     {
         "character1": "Luke",
         "character2": "Juri",
-        "winrate": 0.5361050328227571
+        "winrate": 0.5361050328227571,
+        "sample_size": 457
     },
     {
         "character1": "Luke",
         "character2": "Ken",
-        "winrate": 0.5228966986155484
+        "winrate": 0.5228966986155484,
+        "sample_size": 939
     },
     {
         "character1": "Luke",
         "character2": "Kimberly",
-        "winrate": 0.5610328638497653
+        "winrate": 0.5610328638497653,
+        "sample_size": 426
     },
     {
         "character1": "Luke",
         "character2": "Lily",
-        "winrate": 0.5406698564593302
+        "winrate": 0.5406698564593302,
+        "sample_size": 209
     },
     {
         "character1": "Luke",
         "character2": "Luke",
-        "winrate": 0.5
+        "winrate": 0.5,
+        "sample_size": 404
     },
     {
         "character1": "Luke",
         "character2": "Manon",
-        "winrate": 0.4738372093023256
+        "winrate": 0.4738372093023256,
+        "sample_size": 344
     },
     {
         "character1": "Luke",
         "character2": "Marisa",
-        "winrate": 0.5284280936454849
+        "winrate": 0.5284280936454849,
+        "sample_size": 598
     },
     {
         "character1": "Luke",
         "character2": "Ryu",
-        "winrate": 0.5415472779369628
+        "winrate": 0.5415472779369628,
+        "sample_size": 349
     },
     {
         "character1": "Luke",
         "character2": "Zangief",
-        "winrate": 0.5208333333333334
+        "winrate": 0.5208333333333334,
+        "sample_size": 288
     },
     {
         "character1": "Manon",
         "character2": "Blanka",
-        "winrate": 0.5483870967741935
+        "winrate": 0.5483870967741935,
+        "sample_size": 217
     },
     {
         "character1": "Manon",
         "character2": "Cammy",
-        "winrate": 0.5057251908396947
+        "winrate": 0.5057251908396947,
+        "sample_size": 524
     },
     {
         "character1": "Manon",
         "character2": "Chun-Li",
-        "winrate": 0.49878934624697335
+        "winrate": 0.49878934624697335,
+        "sample_size": 413
     },
     {
         "character1": "Manon",
         "character2": "Dee Jay",
-        "winrate": 0.5092783505154639
+        "winrate": 0.5092783505154639,
+        "sample_size": 485
     },
     {
         "character1": "Manon",
         "character2": "Dhalsim",
-        "winrate": 0.39361702127659576
+        "winrate": 0.39361702127659576,
+        "sample_size": 188
     },
     {
         "character1": "Manon",
         "character2": "Edmond Honda",
-        "winrate": 0.5048543689320388
+        "winrate": 0.5048543689320388,
+        "sample_size": 412
     },
     {
         "character1": "Manon",
         "character2": "Guile",
-        "winrate": 0.5059288537549407
+        "winrate": 0.5059288537549407,
+        "sample_size": 253
     },
     {
         "character1": "Manon",
         "character2": "Jamie",
-        "winrate": 0.5301724137931034
+        "winrate": 0.5301724137931034,
+        "sample_size": 232
     },
     {
         "character1": "Manon",
         "character2": "JP",
-        "winrate": 0.4514637904468413
+        "winrate": 0.4514637904468413,
+        "sample_size": 649
     },
     {
         "character1": "Manon",
         "character2": "Juri",
-        "winrate": 0.4978448275862069
+        "winrate": 0.4978448275862069,
+        "sample_size": 464
     },
     {
         "character1": "Manon",
         "character2": "Ken",
-        "winrate": 0.4801536491677337
+        "winrate": 0.4801536491677337,
+        "sample_size": 781
     },
     {
         "character1": "Manon",
         "character2": "Kimberly",
-        "winrate": 0.5209580838323353
+        "winrate": 0.5209580838323353,
+        "sample_size": 334
     },
     {
         "character1": "Manon",
         "character2": "Lily",
-        "winrate": 0.5874439461883408
+        "winrate": 0.5874439461883408,
+        "sample_size": 223
     },
     {
         "character1": "Manon",
         "character2": "Luke",
-        "winrate": 0.5261627906976745
+        "winrate": 0.5261627906976745,
+        "sample_size": 344
     },
     {
         "character1": "Manon",
         "character2": "Manon",
-        "winrate": 0.5
+        "winrate": 0.5,
+        "sample_size": 474
     },
     {
         "character1": "Manon",
         "character2": "Marisa",
-        "winrate": 0.42748091603053434
+        "winrate": 0.42748091603053434,
+        "sample_size": 524
     },
     {
         "character1": "Manon",
         "character2": "Ryu",
-        "winrate": 0.5014749262536873
+        "winrate": 0.5014749262536873,
+        "sample_size": 339
     },
     {
         "character1": "Manon",
         "character2": "Zangief",
-        "winrate": 0.5311203319502075
+        "winrate": 0.5311203319502075,
+        "sample_size": 241
     },
     {
         "character1": "Marisa",
         "character2": "Blanka",
-        "winrate": 0.4979253112033195
+        "winrate": 0.4979253112033195,
+        "sample_size": 241
     },
     {
         "character1": "Marisa",
         "character2": "Cammy",
-        "winrate": 0.5080385852090032
+        "winrate": 0.5080385852090032,
+        "sample_size": 622
     },
     {
         "character1": "Marisa",
         "character2": "Chun-Li",
-        "winrate": 0.5251256281407035
+        "winrate": 0.5251256281407035,
+        "sample_size": 398
     },
     {
         "character1": "Marisa",
         "character2": "Dee Jay",
-        "winrate": 0.5197934595524957
+        "winrate": 0.5197934595524957,
+        "sample_size": 581
     },
     {
         "character1": "Marisa",
         "character2": "Dhalsim",
-        "winrate": 0.46
+        "winrate": 0.46,
+        "sample_size": 300
     },
     {
         "character1": "Marisa",
         "character2": "Edmond Honda",
-        "winrate": 0.4814004376367615
+        "winrate": 0.4814004376367615,
+        "sample_size": 457
     },
     {
         "character1": "Marisa",
         "character2": "Guile",
-        "winrate": 0.5242966751918159
+        "winrate": 0.5242966751918159,
+        "sample_size": 391
     },
     {
         "character1": "Marisa",
         "character2": "Jamie",
-        "winrate": 0.4900662251655629
+        "winrate": 0.4900662251655629,
+        "sample_size": 302
     },
     {
         "character1": "Marisa",
         "character2": "JP",
-        "winrate": 0.44792719919110213
+        "winrate": 0.44792719919110213,
+        "sample_size": 989
     },
     {
         "character1": "Marisa",
         "character2": "Juri",
-        "winrate": 0.4694915254237288
+        "winrate": 0.4694915254237288,
+        "sample_size": 590
     },
     {
         "character1": "Marisa",
         "character2": "Ken",
-        "winrate": 0.4712134632418069
+        "winrate": 0.4712134632418069,
+        "sample_size": 1129
     },
     {
         "character1": "Marisa",
         "character2": "Kimberly",
-        "winrate": 0.4662576687116564
+        "winrate": 0.4662576687116564,
+        "sample_size": 489
     },
     {
         "character1": "Marisa",
         "character2": "Lily",
-        "winrate": 0.4520547945205479
+        "winrate": 0.4520547945205479,
+        "sample_size": 219
     },
     {
         "character1": "Marisa",
         "character2": "Luke",
-        "winrate": 0.47157190635451507
+        "winrate": 0.47157190635451507,
+        "sample_size": 598
     },
     {
         "character1": "Marisa",
         "character2": "Manon",
-        "winrate": 0.5725190839694656
+        "winrate": 0.5725190839694656,
+        "sample_size": 524
     },
     {
         "character1": "Marisa",
         "character2": "Marisa",
-        "winrate": 0.5
+        "winrate": 0.5,
+        "sample_size": 540
     },
     {
         "character1": "Marisa",
         "character2": "Ryu",
-        "winrate": 0.5058548009367682
+        "winrate": 0.5058548009367682,
+        "sample_size": 427
     },
     {
         "character1": "Marisa",
         "character2": "Zangief",
-        "winrate": 0.5668604651162791
+        "winrate": 0.5668604651162791,
+        "sample_size": 344
     },
     {
         "character1": "Ryu",
         "character2": "Blanka",
-        "winrate": 0.44537815126050423
+        "winrate": 0.44537815126050423,
+        "sample_size": 238
     },
     {
         "character1": "Ryu",
         "character2": "Cammy",
-        "winrate": 0.3940774487471526
+        "winrate": 0.3940774487471526,
+        "sample_size": 439
     },
     {
         "character1": "Ryu",
         "character2": "Chun-Li",
-        "winrate": 0.391304347826087
+        "winrate": 0.391304347826087,
+        "sample_size": 299
     },
     {
         "character1": "Ryu",
         "character2": "Dee Jay",
-        "winrate": 0.44744744744744747
+        "winrate": 0.44744744744744747,
+        "sample_size": 333
     },
     {
         "character1": "Ryu",
         "character2": "Dhalsim",
-        "winrate": 0.4556213017751479
+        "winrate": 0.4556213017751479,
+        "sample_size": 169
     },
     {
         "character1": "Ryu",
         "character2": "Edmond Honda",
-        "winrate": 0.46296296296296297
+        "winrate": 0.46296296296296297,
+        "sample_size": 378
     },
     {
         "character1": "Ryu",
         "character2": "Guile",
-        "winrate": 0.46859903381642515
+        "winrate": 0.46859903381642515,
+        "sample_size": 207
     },
     {
         "character1": "Ryu",
         "character2": "Jamie",
-        "winrate": 0.42995169082125606
+        "winrate": 0.42995169082125606,
+        "sample_size": 207
     },
     {
         "character1": "Ryu",
         "character2": "JP",
-        "winrate": 0.4
+        "winrate": 0.4,
+        "sample_size": 580
     },
     {
         "character1": "Ryu",
         "character2": "Juri",
-        "winrate": 0.48760330578512395
+        "winrate": 0.48760330578512395,
+        "sample_size": 363
     },
     {
         "character1": "Ryu",
         "character2": "Ken",
-        "winrate": 0.5014164305949008
+        "winrate": 0.5014164305949008,
+        "sample_size": 706
     },
     {
         "character1": "Ryu",
         "character2": "Kimberly",
-        "winrate": 0.523943661971831
+        "winrate": 0.523943661971831,
+        "sample_size": 355
     },
     {
         "character1": "Ryu",
         "character2": "Lily",
-        "winrate": 0.5231788079470199
+        "winrate": 0.5231788079470199,
+        "sample_size": 151
     },
     {
         "character1": "Ryu",
         "character2": "Luke",
-        "winrate": 0.4584527220630373
+        "winrate": 0.4584527220630373,
+        "sample_size": 349
     },
     {
         "character1": "Ryu",
         "character2": "Manon",
-        "winrate": 0.49852507374631266
+        "winrate": 0.49852507374631266,
+        "sample_size": 339
     },
     {
         "character1": "Ryu",
         "character2": "Marisa",
-        "winrate": 0.49414519906323184
+        "winrate": 0.49414519906323184,
+        "sample_size": 427
     },
     {
         "character1": "Ryu",
         "character2": "Ryu",
-        "winrate": 0.5
+        "winrate": 0.5,
+        "sample_size": 266
     },
     {
         "character1": "Ryu",
         "character2": "Zangief",
-        "winrate": 0.5265700483091788
+        "winrate": 0.5265700483091788,
+        "sample_size": 207
     },
     {
         "character1": "Zangief",
         "character2": "Blanka",
-        "winrate": 0.4230769230769231
+        "winrate": 0.4230769230769231,
+        "sample_size": 182
     },
     {
         "character1": "Zangief",
         "character2": "Cammy",
-        "winrate": 0.5436893203883495
+        "winrate": 0.5436893203883495,
+        "sample_size": 309
     },
     {
         "character1": "Zangief",
         "character2": "Chun-Li",
-        "winrate": 0.43317972350230416
+        "winrate": 0.43317972350230416,
+        "sample_size": 217
     },
     {
         "character1": "Zangief",
         "character2": "Dee Jay",
-        "winrate": 0.5354330708661418
+        "winrate": 0.5354330708661418,
+        "sample_size": 254
     },
     {
         "character1": "Zangief",
         "character2": "Dhalsim",
-        "winrate": 0.26666666666666666
+        "winrate": 0.26666666666666666,
+        "sample_size": 135
     },
     {
         "character1": "Zangief",
         "character2": "Edmond Honda",
-        "winrate": 0.4982456140350877
+        "winrate": 0.4982456140350877,
+        "sample_size": 285
     },
     {
         "character1": "Zangief",
         "character2": "Guile",
-        "winrate": 0.539906103286385
+        "winrate": 0.539906103286385,
+        "sample_size": 213
     },
     {
         "character1": "Zangief",
         "character2": "Jamie",
-        "winrate": 0.5344827586206896
+        "winrate": 0.5344827586206896,
+        "sample_size": 174
     },
     {
         "character1": "Zangief",
         "character2": "JP",
-        "winrate": 0.3435448577680525
+        "winrate": 0.3435448577680525,
+        "sample_size": 457
     },
     {
         "character1": "Zangief",
         "character2": "Juri",
-        "winrate": 0.5042016806722689
+        "winrate": 0.5042016806722689,
+        "sample_size": 238
     },
     {
         "character1": "Zangief",
         "character2": "Ken",
-        "winrate": 0.4419047619047619
+        "winrate": 0.4419047619047619,
+        "sample_size": 525
     },
     {
         "character1": "Zangief",
         "character2": "Kimberly",
-        "winrate": 0.4600760456273764
+        "winrate": 0.4600760456273764,
+        "sample_size": 263
     },
     {
         "character1": "Zangief",
         "character2": "Lily",
-        "winrate": 0.3508771929824561
+        "winrate": 0.3508771929824561,
+        "sample_size": 114
     },
     {
         "character1": "Zangief",
         "character2": "Luke",
-        "winrate": 0.4791666666666667
+        "winrate": 0.4791666666666667,
+        "sample_size": 288
     },
     {
         "character1": "Zangief",
         "character2": "Manon",
-        "winrate": 0.46887966804979253
+        "winrate": 0.46887966804979253,
+        "sample_size": 241
     },
     {
         "character1": "Zangief",
         "character2": "Marisa",
-        "winrate": 0.4331395348837209
+        "winrate": 0.4331395348837209,
+        "sample_size": 344
     },
     {
         "character1": "Zangief",
         "character2": "Ryu",
-        "winrate": 0.47342995169082125
+        "winrate": 0.47342995169082125,
+        "sample_size": 207
     },
     {
         "character1": "Zangief",
         "character2": "Zangief",
-        "winrate": 0.5
+        "winrate": 0.5,
+        "sample_size": 120
     }
 ]
